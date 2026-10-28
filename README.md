@@ -1,7 +1,7 @@
 # Keycore
 
-This is the Keycore marketing site for https://keycore.org.
+Personal site of HONGDA GU (@yunshengkoo) for https://keycore.org.
 
-It is static HTML. Deploy via Cloudflare Pages from this repo.
+Static HTML. Deploy via Cloudflare Pages from this repo.
 
-Do not invent extra pages.
+Do not invent extra pages, metrics, clients, testimonials, prices, or awards. Lines marked 待补充 are blanks for the owner to replace.
