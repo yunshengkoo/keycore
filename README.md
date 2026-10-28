@@ -1,6 +1,6 @@
 # Keycore
 
-Personal site of HONGDA GU (@yunshengkoo) for https://keycore.org.
+Personal site of Michael Gu (@yunshengkoo) for https://keycore.org.
 
 Static HTML. Deploy via Cloudflare Pages from this repo.
 
